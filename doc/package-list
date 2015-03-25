@@ -1,0 +1,16 @@
+assiettesSpec
+controleur
+controleur.Assiette
+controleur.Commande
+controleur.Employe
+employesSpec
+modele
+modele.assiette
+modele.commande
+modele.employe
+principal
+tests
+vue
+vue.assiette
+vue.commande
+vue.employe

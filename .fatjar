@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Nov 17 01:02:38 CET 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Restaurant.jar
+manifest.mergeall=true
+manifest.mainclass=principal.Principal
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
